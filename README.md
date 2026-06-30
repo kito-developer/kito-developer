@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Kito 👋
 
-<!--
-**kito-developer/kito-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-semester Computer Science student.
 
-Here are some ideas to get you started:
+### Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Software Development
+* Cyber Security
+* Linux
+
+### Currently Learning
+
+* C
+* Python
+* Java
+* Algorithms & Data Structures
+* Linear Algebra
+
+### Current Projects
+
+* Sport RPG System *(work in progress)*
