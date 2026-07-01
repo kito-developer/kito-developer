@@ -6,7 +6,7 @@ I'm a second-semester Computer Science student.
 
 * Software Development
 * Cyber Security
-* AI
+* Artificial Intelligence
 * Linux
 
 ### Currently Learning
