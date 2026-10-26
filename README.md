@@ -1,22 +1,29 @@
-## Hi, I'm Kito 👋
+# Hi, I'm Kito 👋
 
-I'm a second-semester Computer Science student.
+I'm a third-semester Computer Science student at Humboldt University of Berlin, passionate about building software, understanding how systems work, and continuously improving my technical skills.
 
-### Interests
+### 🧠 Areas of Interest
+- Software Engineering & Web Development
+- Cybersecurity & Network Security
+- Artificial Intelligence & Machine Learning
+- Linux & Open-Source Technologies
 
-* Software Development
-* Cyber Security
-* AI & Machine Learning
-* Linux
+### 📚 Currently Learning
+- **Programming:** Python, C, Java & JavaScript
+- **Web Development:** HTML, CSS & JavaScript
+- **Computer Science:** Algorithms, Data Structures & Computer Networks
+- **Tools:** Linux, Git & GitHub
 
-### Currently Learning
+### 🚀 Current Projects
 
-* C
-* Python
-* Java
-* Algorithms & Data Structures
-* Linear Algebra
+**SYSTEM** — *Work in Progress*
 
-### Current Projects
+A personal, modular software ecosystem designed to bring together productivity tools, system management, automation, and a locally hosted AI assistant.
 
-* Sport RPG System *(work in progress)*
+Currently working on the frontend and learning web development along the way.
+
+### 🎯 Current Goals
+- Strengthen my programming fundamentals
+- Build practical, real-world applications
+- Explore cybersecurity and AI through hands-on projects
+- Grow as a software developer through continuous learning
