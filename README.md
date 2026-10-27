@@ -1,4 +1,4 @@
-# Hi, I'm Kito 👋
+# Hey, I'm Kito 👋
 
 I'm a third-semester Computer Science student at Humboldt University of Berlin, passionate about building software, understanding how systems work, and continuously improving my technical skills.
 
