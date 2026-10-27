@@ -1,29 +1,44 @@
 # Hey, I'm Kito 👋
 
-I'm a third-semester Computer Science student at Humboldt University of Berlin, passionate about building software, understanding how systems work, and continuously improving my technical skills.
+I'm a third-semester Computer Science student at **Humboldt University of Berlin**, with a strong interest in software engineering, cybersecurity, and Linux-based systems.
 
-### 🧠 Areas of Interest
-- Software Engineering & Web Development
-- Cybersecurity & Network Security
-- Artificial Intelligence & Machine Learning
-- Linux & Open-Source Technologies
+I enjoy exploring how software works, solving technical problems, and turning ideas into practical applications. Currently, I'm focusing on strengthening my programming fundamentals while gaining hands-on experience through personal projects.
 
-### 📚 Currently Learning
-- **Programming:** Python, C, Java & JavaScript
-- **Web Development:** HTML, CSS & JavaScript
-- **Computer Science:** Algorithms, Data Structures & Computer Networks
-- **Tools:** Linux, Git & GitHub
+## About Me
 
-### 🚀 Current Projects
+- 🎓 Studying Computer Science at Humboldt University of Berlin
+- 💻 Interested in software engineering, cybersecurity, and AI
+- 🐧 Linux enthusiast with an interest in open-source technologies
+- 🛠️ Learning through independent projects and experimentation
 
-**SYSTEM** — *Work in Progress*
+## Technologies & Tools
 
-A personal, modular software ecosystem designed to bring together productivity tools, system management, automation, and a locally hosted AI assistant.
+**Programming Languages**  
+Python · C · Java · JavaScript
 
-Currently working on the frontend and learning web development along the way.
+**Web Development**  
+HTML · CSS
 
-### 🎯 Current Goals
-- Strengthen my programming fundamentals
-- Build practical, real-world applications
-- Explore cybersecurity and AI through hands-on projects
-- Grow as a software developer through continuous learning
+**Development Environment**  
+Linux · Git · GitHub
+
+**Computer Science Fundamentals**  
+Algorithms & Data Structures · Computer Networks · Discrete Mathematics
+
+## Featured Project
+
+### SYSTEM — Personal Software Ecosystem
+*Work in Progress*
+
+SYSTEM is a long-term personal software project focused on building a modular platform that brings together productivity, system management, and automation.
+
+The project also explores the integration of a personal AI assistant and self-hosted infrastructure.
+
+**Current focus:** Frontend development, JavaScript, and modular application design.
+
+## What I'm Currently Working On
+
+- Developing the frontend of SYSTEM
+- Improving my Python and C programming skills
+- Learning modern web development with HTML, CSS, and JavaScript
+- Building a stronger foundation in software design and problem-solving
