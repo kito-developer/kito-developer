@@ -1,44 +1,21 @@
 # Hey, I'm Kito 👋
 
-I'm a third-semester Computer Science student at **Humboldt University of Berlin**, with a strong interest in software engineering, cybersecurity, and Linux-based systems.
+I'm a third-semester Computer Science student at **Humboldt University of Berlin**, interested in software engineering, cybersecurity, AI, and Linux.
 
-I enjoy exploring how software works, solving technical problems, and turning ideas into practical applications. Currently, I'm focusing on strengthening my programming fundamentals while gaining hands-on experience through personal projects.
-
-## About Me
-
-- 🎓 Studying Computer Science at Humboldt University of Berlin
-- 💻 Interested in software engineering, cybersecurity, and AI
-- 🐧 Linux enthusiast with an interest in open-source technologies
-- 🛠️ Learning through independent projects and experimentation
+I enjoy building practical applications, exploring new technologies, and learning through hands-on projects.
 
 ## Technologies & Tools
 
-**Programming Languages**  
-Python · C · Java · JavaScript
+**Languages:** Python · C · Java · JavaScript  
+**Web:** HTML · CSS  
+**Tools:** Linux · Git · GitHub  
+**CS Fundamentals:** Algorithms & Data Structures · Computer Networks
 
-**Web Development**  
-HTML · CSS
-
-**Development Environment**  
-Linux · Git · GitHub
-
-**Computer Science Fundamentals**  
-Algorithms & Data Structures · Computer Networks · Discrete Mathematics
-
-## Featured Project
+## Projects
 
 ### SYSTEM — Personal Software Ecosystem
 *Work in Progress*
 
-SYSTEM is a long-term personal software project focused on building a modular platform that brings together productivity, system management, and automation.
+A modular software platform combining productivity tools, system management, automation, and a personal AI assistant.
 
-The project also explores the integration of a personal AI assistant and self-hosted infrastructure.
-
-**Current focus:** Frontend development, JavaScript, and modular application design.
-
-## What I'm Currently Working On
-
-- Developing the frontend of SYSTEM
-- Improving my Python and C programming skills
-- Learning modern web development with HTML, CSS, and JavaScript
-- Building a stronger foundation in software design and problem-solving
+Currently focusing on frontend development and learning JavaScript along the way.
